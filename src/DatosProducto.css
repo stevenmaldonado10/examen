@@ -1,0 +1,15 @@
+.lista{
+
+    list-style-type: none;
+    background-color:floralwhite;
+    color:black;
+    font-weight:bold;
+    padding: 5px;
+    text-align: center;
+    border: 1px solid black
+}
+
+.lista li{
+
+    margin:4px;
+}

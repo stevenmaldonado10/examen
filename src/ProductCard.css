@@ -1,0 +1,34 @@
+.principal{
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+    
+    padding: 5px;  
+    
+  
+  }
+  
+  .principal li{
+    
+    list-style-type: none;
+    background-color:floralwhite;
+    width:400px;
+    height: 200px;
+    border: 2px solid black;
+    margin: 3px;
+    padding: 10px;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+  
+  }
+  
+  .principal img{
+    width: 100px;
+    height: 100px;
+   
+  }
+  
+  
